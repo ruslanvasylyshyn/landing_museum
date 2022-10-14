@@ -1,5 +1,5 @@
 .subscription {
-  background-image: url("../images/subscription.png");
+  background-image: url('../images/subscription.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -74,14 +74,12 @@
 }
 
 @media screen and (max-width: 1440px) {
-
   .subscription {
     height: 550px;
   }
 }
 
 @media screen and (max-width: 768px) {
-
   .subscription {
     height: 380px;
   }
@@ -108,9 +106,8 @@
   .subscription__heading {
     font-size: 36px;
     line-height: 36px;
-
   }
-  
+
   .subscription__title {
     font-size: 18px;
     line-height: 18px;

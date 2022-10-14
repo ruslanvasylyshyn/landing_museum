@@ -2,7 +2,7 @@
   height: 655px;
   width: 1245px;
   margin-bottom: 155px;
-  background-image: url("../images/header-muzej-1800x1200.png");
+  background-image: url('../images/header-muzej-1800x1200.png');
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -50,7 +50,6 @@
   line-height: 72px;
   margin-bottom: 80px;
   transition: font-size $transition-time;
-
 }
 
 .tickets__heading-letters {
@@ -92,7 +91,7 @@
 
 .tickets__button-img {
   width: 70px;
-  height: 70px;
+  height: 71px;
   background: #1a5a4c;
   display: flex;
   justify-content: center;
@@ -148,7 +147,7 @@
     width: auto;
     height: 300px;
     position: static;
-    background-image: url("../images/header-muzej-1800x1200.png");
+    background-image: url('../images/header-muzej-1800x1200.png');
     background-repeat: no-repeat;
     background-size: cover;
     transform: none;

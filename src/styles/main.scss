@@ -1,8 +1,8 @@
-@import "utils";
-@import "fonts";
-@import "typography";
-@import "reset";
-@import "container";
+@import 'utils';
+@import 'fonts';
+@import 'typography';
+@import 'reset';
+@import 'container';
 
 html {
   box-sizing: border-box;
@@ -13,10 +13,10 @@ body {
   background: $c-gray;
 }
 
-@import "header";
-@import "burger";
-@import "tickets";
-@import "events";
-@import "gallery";
-@import "subscription";
-@import "footer";
+@import 'header';
+@import 'burger';
+@import 'tickets';
+@import 'events';
+@import 'gallery';
+@import 'subscription';
+@import 'footer';
